@@ -16,3 +16,7 @@ The discovery of novel solvents is crucial for advancing green chemistry, and ch
 Karol Baran, Adam Kloskowski (GdańskTech)
 2024 Gdańsk, Poland
 repository maintained by Karol Baran
+
+## Acknowledgment 
+
+The authors would like to gratefully acknowledge that this research was funded in whole or in part by the National Science Centre, Poland (NCN) under the Preludium 22 program in the years 2024–2027 (project no. UMO-2023/49/N/ST5/01043).
